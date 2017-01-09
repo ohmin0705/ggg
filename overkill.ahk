@@ -82,7 +82,7 @@ Gui Add, Text, x280 y140 w35 h20, Y:
 Gui Add, Text, x208 y140 w35 h20, X:
 Gui Add, Edit, x240 y140 w35 h20 vxa, 0
 Gui Add, GroupBox, x205 y120 w160 h45, Shoot 
-Gui Add, Text, x220 y300 w130 h150, `n`nThe software is just for fun`n`nYou should only use it for legal propose`n`n
+Gui Add, Text, x220 y300 w130 h150, `n`nAIMBOT KR`n`n
 Gui Show, w372 h480, Overkill
 Loop {
 Gui, Submit, NoHide
