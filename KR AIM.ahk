@@ -60,7 +60,7 @@ Gui Add, Text, x20 y55 w165 h25, Active when fire
 Gui Add, Text, x40 y144 w35 h20, rx:
 Gui Add, Edit, x80 y140 w50 h20 vrx, 5
 Gui Add, Button, x230 y210 w100 h20 gsub1, How-to
-Gui Add, Button, x230 y240 w100 h20 gsub2, Get lastest ver
+Gui Add, Button, x230 y240 w100 h20 gsub2, AIMBOT KR YOUTUBE
 Gui Add, GroupBox, x8 y265 w187 h210, Misc
 Gui Add, CheckBox, x16 y288 w160 h20 voverlayActive, Overlay
 ;Gui Add, CheckBox, x16 y288 w160 h20 vmccree, Mccree Right Click No Recoil
@@ -82,7 +82,7 @@ Gui Add, Text, x280 y140 w35 h20, Y:
 Gui Add, Text, x208 y140 w35 h20, X:
 Gui Add, Edit, x240 y140 w35 h20 vxa, 0
 Gui Add, GroupBox, x205 y120 w160 h45, Shoot 
-Gui Add, Text, x220 y300 w130 h150, `n`nAIMBOT KR`n`n
+Gui Add, Text, x220 y300 w130 h150, `n`nMADE BY AIMBOT KR`n`n
 Gui Show, w372 h480, Overkill
 Loop {
 Gui, Submit, NoHide
